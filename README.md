@@ -6,7 +6,7 @@
 
 * Author: Dang Xuan Tien - Master student at Chonnam National University
 
-We carried out examples about:
+In this work, we carried out examples about:
 1. Using MTCNN to detect faces in image.
 2. How to build a simple Image Captioning system.
 3. How to build a simple Machine Translation.
