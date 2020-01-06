@@ -1,3 +1,12 @@
+![Windows x64](https://img.shields.io/badge/Windows-x64-green.svg)
+![Python 3.5.6](https://img.shields.io/badge/Python-3.5.6-red.svg)
+![Keras v2.2.2](https://img.shields.io/badge/Keras-2.2.2-yellow.svg)
+
 # Basic Examples in Deep Learning with Keras library
 
 * Author: Dang Xuan Tien - Master student at Chonnam National University
+
+We carried out examples about:
+1. Using MTCNN to detect faces in image.
+2. How to build a simple Image Captioning system.
+3. How to build a simple Machine Translation.
