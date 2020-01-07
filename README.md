@@ -7,6 +7,6 @@
 * Author: Dang Xuan Tien - Master student at Chonnam National University
 
 In this work, we carried out examples about:
-1. [Using MTCNN to detect faces in image](https://github.com/dxtien163/Examples_in_DL/blob/master/Face_Detection/Face_Detection_wMTCNN.ipynb).
+1. [Using MTCNN to detect faces in image](https://github.com/dxtien163/Examples_in_DL/blob/master/Face_Detection/).
 2. How to build a simple Image Captioning system.
-3. How to build a simple Machine Translation.
+3. [How to build a simple Machine Translation](https://github.com/dxtien163/Examples_in_DL/blob/master/Machine_Translation/)
