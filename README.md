@@ -10,3 +10,4 @@ In this work, we carried out examples about:
 1. [Using MTCNN to detect faces in image](https://github.com/dxtien163/Examples_in_DL/blob/master/Face_Detection/).
 2. [How to build a simple Machine Translation](https://github.com/dxtien163/Examples_in_DL/blob/master/Machine_Translation/)
 3. [How to generate captions for image](https://github.com/dxtien163/Examples_in_DL/tree/master/Image_Captioning)
+4. [RNN and LSTM for time series prediction](https://github.com/dxtien163/Examples_in_DL/tree/master/RNN)
